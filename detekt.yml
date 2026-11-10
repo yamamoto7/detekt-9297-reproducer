@@ -1,0 +1,5 @@
+ktlint:
+  MaximumLineLength:
+    active: true
+    maxLineLength: 40
+    ignoreAnnotated: ['Preview']
